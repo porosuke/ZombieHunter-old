@@ -1,6 +1,6 @@
 日本語の説明は [README_JPN.md](./README_JPN.md) をご覧ください。
 
-# Zombie_Hunter
+# Zombie_Hunter_old
 
 ![header](/header.png)
 
