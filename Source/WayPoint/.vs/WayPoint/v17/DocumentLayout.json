@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Downloads\\WayPoint-20260303T003447Z-1-001\\WayPoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F69211-1CDC-4352-9A64-F81AABFE73D6}|WayPoint\\WayPoint.csproj|s:\\downloads\\waypoint-20260303t003447z-1-001\\waypoint\\waypoint\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F69211-1CDC-4352-9A64-F81AABFE73D6}|WayPoint\\WayPoint.csproj|solutionrelative:waypoint\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F69211-1CDC-4352-9A64-F81AABFE73D6}|WayPoint\\WayPoint.csproj|S:\\Downloads\\WayPoint-20260303T003447Z-1-001\\WayPoint\\waypoint\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33F69211-1CDC-4352-9A64-F81AABFE73D6}|WayPoint\\WayPoint.csproj|solutionrelative:waypoint\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "S:\\Downloads\\WayPoint-20260303T003447Z-1-001\\WayPoint\\WayPoint\\Main.cs",
+              "RelativeDocumentMoniker": "WayPoint\\Main.cs",
+              "ToolTip": "S:\\Downloads\\WayPoint-20260303T003447Z-1-001\\WayPoint\\WayPoint\\Main.cs",
+              "RelativeToolTip": "WayPoint\\Main.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwJsBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:37:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "S:\\Downloads\\WayPoint-20260303T003447Z-1-001\\WayPoint\\WayPoint\\Main.cs",
+              "RelativeDocumentMoniker": "WayPoint\\Main.cs",
+              "ToolTip": "S:\\Downloads\\WayPoint-20260303T003447Z-1-001\\WayPoint\\WayPoint\\Main.cs [Design]",
+              "RelativeToolTip": "WayPoint\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:37:49.567Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
